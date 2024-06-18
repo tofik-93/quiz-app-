@@ -1,0 +1,112 @@
+[{
+"question": "Which programming language is commonly used for frontend development?",
+"optA": "Python",
+"optB": "JavaScript",
+"optC": "Java",
+"optD": "C++",
+"answer": "JavaScript"
+},
+
+{
+"question": "What does CSS stand for in web development?",
+"optA": "Creative Style Sheets",
+"optB": "Cascading Style Sheets",
+"optC": "Computer Style Sheets",
+"optD": "Coding Style Sheets",
+"answer": "Cascading Style Sheets"
+ 
+},
+
+
+{
+"question": "Which HTML tag is used to define an image?",
+"optA": "<img>",
+"optB": "<image>",
+"optC": "<picture>",
+"optD": "<photo>",
+"answer": "<img>"
+}
+,
+{
+"question": "What is the purpose of a loop in programming?",
+"optA": "To define a data structure",
+"optB": "To perform a specific task repeatedly",
+"optC": "To handle errors in code",
+"optD": "To declare variables",
+"answer": "To perform a specific task repeatedly"
+}
+,
+{
+"question": "Which programming language is known for its use in statistical analysis and data manipulation?",
+"optA": "Python",
+"optB": "C#",
+"optC": "Ruby",
+"optD": "MATLAB",
+"answer": "Python"
+},
+
+{
+"question": "What is the process of finding and fixing errors in a program called?",
+"optA": "Debugging",
+"optB": "Compiling",
+"optC": "Testing",
+"optD": "Optimizing",
+"answer": "Debugging"
+},
+
+{
+"question": "Which programming language is commonly used for backend web development?",
+"optA": "JavaScript",
+"optB": "Python",
+"optC": "Ruby",
+"optD": "PHP",
+"answer": "PHP"
+}
+,
+
+{
+"question": "What does the acronym 'LAN' stand for in computer networking?",
+"optA": "Local Area Network",
+"optB": "Long Area Network",
+"optC": "Large Area Network",
+"optD": "Lightweight Access Network",
+"answer": "Local Area Network"
+}
+,
+{
+"question": "Which device is used to connect multiple networks together?",
+"optA": "Router",
+"optB": "Switch",
+"optC": "Hub",
+"optD": "Modem",
+"answer": "Router"
+}
+,
+{
+"question": "Who is considered the father of modern computer science?",
+"optA": "Alan Turing",
+"optB": "Bill Gates",
+"optC": "Steve Jobs",
+"optD": "Tim Berners-Lee",
+"answer": "Alan Turing"
+}
+,
+
+{
+"question": "What does the acronym 'URL' stand for in web addresses?",
+"optA": "Universal Resource Locator",
+"optB": "Uniform Resource Locator",
+"optC": "Uniform Resource Link",
+"optD": "Universal Routing Link",
+"answer": "Uniform Resource Locator"
+}
+,
+
+{
+"question": "Which organization is responsible for assigning IP addresses worldwide?",
+"optA": "IETF",
+"optB": "ICANN",
+"optC": "IEEE",
+"optD": "IANA",
+"answer": "IANA"
+}]
